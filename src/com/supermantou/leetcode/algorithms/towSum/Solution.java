@@ -2,6 +2,9 @@ package com.supermantou.leetcode.algorithms.towSum;
 
 import java.util.HashMap;
 
+/**
+ * https://leetcode-cn.com/problems/two-sum/
+ */
 public class Solution {
     public int[] twoSum(int[] nums, int target) {
         int res[] = {0,0};

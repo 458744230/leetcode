@@ -1,5 +1,8 @@
 package com.supermantou.leetcode.algorithms.palindromeNumber;
 
+/**
+ * https://leetcode-cn.com/problems/palindrome-number/
+ */
 public class Solution {
     // 转化成字符串版本
     public boolean isPalindrome(int x) {
