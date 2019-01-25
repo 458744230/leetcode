@@ -1,4 +1,4 @@
-package com.supermantou.leetcode.algorithms.reverseInteger;
+package com.supermantou.leetcode.algorithms.simple.reverseInteger;
 
 /**
  * https://leetcode-cn.com/problems/reverse-integer/

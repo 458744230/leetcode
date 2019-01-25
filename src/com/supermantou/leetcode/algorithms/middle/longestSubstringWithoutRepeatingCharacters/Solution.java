@@ -1,4 +1,4 @@
-package com.supermantou.leetcode.algorithms.longestSubstringWithoutRepeatingCharacters;
+package com.supermantou.leetcode.algorithms.middle.longestSubstringWithoutRepeatingCharacters;
 
 import java.util.HashMap;
 
